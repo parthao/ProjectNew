@@ -1,0 +1,9 @@
+.mydiv {
+    width:max-content;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 50px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px 5px rgb(184, 184, 184);
+    background-color: white;
+}
